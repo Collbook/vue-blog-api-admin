@@ -1,0 +1,37 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css');
+
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import '~admin-lte/dist/css/adminlte.css';
+@import '~admin-lte/plugins/iCheck/flat/blue.css';
+
+@import '~admin-lte/plugins/morris/morris.css';
+
+//@import '~admin-lte/plugins/jvectormap/jquery-jvectormap-1.2.2.css';
+
+@import '~admin-lte/plugins/datepicker/datepicker3.css';
+
+@import '~admin-lte/plugins/daterangepicker/daterangepicker-bs3.css';
+
+@import '~admin-lte/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css';
+
+@import '~font-awesome/css/font-awesome.css';
+@import '~font-awesome/scss/font-awesome.scss';
+
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.content-wrapper > .content {
+  padding: 0;
+}
